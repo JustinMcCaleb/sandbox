@@ -1,0 +1,16 @@
+body {
+    background-color: #3b3f41;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-parent {
+    background-color: lightslategray;
+    height: 500px;
+    width: 500px;
+}
+
+.form-parent>form {
+}
